@@ -10,3 +10,6 @@ everyday basis. Aside from just regular reasons to prefer one language or tool o
 discusses a multi-language future for IoT. 
 
 </h5>
+
+#### Pengfan's Comment:
+IoT is a popular topic right now. Many big tech companies such as google, amazon, apple are developing smart home hubs that can help customers control the home devices "smartly." It is interesting to know what programming languages are popular for developing IoT.
